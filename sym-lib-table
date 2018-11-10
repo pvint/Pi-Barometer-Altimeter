@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name barometer)(type Legacy)(uri /home/pvint/Electronics/Barometer-Pi_Module/barometer.lib)(options "")(descr ""))
+)
